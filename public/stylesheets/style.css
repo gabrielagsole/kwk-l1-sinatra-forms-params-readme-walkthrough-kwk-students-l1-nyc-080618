@@ -1,0 +1,454 @@
+
+.WelcomeClass{
+  text-align: center;
+  font-size: 700%;
+  color: white;
+  background-color: #EBF5FB;
+  margin-bottom:0px;
+  margin-top: 0px;
+  width: 1500px;
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: 1450px 550px;
+  background-image: url(https://www.pastepic.xyz/images/2018/08/16/deserttcea85afc6ff86a5b.jpg);
+  margin-left: 75px
+}
+
+.RecommendationsClass{
+  font-size: 325%;
+  text-align: center;
+  font-family: 'Poiret One', cursive;
+  background-color: white;
+  padding-top: 25px;
+  border-style: dotted;
+}
+
+.recommendationsbuttonclass {
+  background-color: black;
+  font-family: Arial;
+  text-align: center;
+  margin-left: 40px;
+  height: 5.5%;
+  width: 96%;
+  color: white;
+  font-size: 110%;
+
+}
+
+
+.welcomebutton{
+  padding: 14px 40px;
+  width: 600px;
+  height: 200px;
+  font-size: 100px;
+  background-color: #EAECEE;
+  color: #808B96;
+  border: none;
+  font-family: 'Poiret One', cursive;
+  
+}
+
+.welcomebutton:hover {
+    background-color: #EAF2F8; /* Black */
+    color: black;
+}
+
+.welcomebody {
+ background-color: #EBF5FB;
+ border-style: double;
+ border-color: #EAF2F8;
+ 
+}
+
+.emailclass {
+  font-size: 50px;
+  text-align: center;
+  font-family: 'Poiret One', cursive;
+}
+
+.emailbuttonclass {
+  font-size: 25px;
+  font-family: 'Poiret One', cursive;
+}
+
+.emailinputclass {
+  font-size: 25px;
+  font-family: 'Poiret One', cursive;
+}
+
+.wholescreenclass {
+  background-color: #EAF2F8;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  text-align: center;
+  
+}
+
+.quizbodyclass {
+  text-align: center;
+  font-family: arial;
+  background-color: white;
+  background-blend-mode: overlay;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+  margin-top: 25px;
+}
+
+.takequizclass {
+  text-align: center;
+  color: black;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 60px;
+  background-color: none;
+  width: 600px;
+  height: 50px;
+  margin-left: 320px;
+  padding-top: 40px;
+ 
+}
+
+.middleclass {
+  margin-top: 100px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 110%;
+}
+
+.interestclass {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.nameclass {
+  border: none;
+  background-color: #EAF2F8;
+  opacity: .8;
+  font-family: 'Josefin Sans', sans-serif;
+  margin-top: 5px;
+  height: 17px;
+  
+}
+
+.submitbuttonclass {
+  border: none;
+  margin-top: 70px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 100%;
+  padding-top: 5px;
+  background-color: #EAF2F8;
+  width: 80px;
+  height: 35px;
+}
+
+.submitbuttonclass:hover {
+  background-color: #eaf2f8;
+  border: none;
+}
+
+.beginnersbuttonclass{
+  padding: 14px 40px;
+  font-size: 50px;
+  background-color: #EAECEE;
+  color: #808B96;
+  border: none;
+  font-family: 'Poiret One', cursive;
+}
+
+.beginnersbuttonclass:hover {
+   background-color: #EAF2F8; /* Black */
+    color: black;
+}
+
+.advancedbuttonclass{
+   padding: 14px 40px;
+  width: 300px;
+  height: 100px;
+  font-size: 50px;
+  background-color: #EAECEE;
+  color: #808B96;
+  border: none;
+  font-family: 'Poiret One', cursive;
+}
+
+.advancedbuttonclass:hover{
+   background-color: #EAF2F8; /* Black */
+    color: black;
+}
+
+.artbuttonclass{
+  padding: 14px 40px;
+  width: 300px;
+  height: 100px;
+  font-size: 50px;
+  background-color: #EAECEE;
+  color: #808B96;
+  border: none;
+  font-family: 'Poiret One', cursive;
+}
+
+.artbuttonclass:hover{
+  background-color: #EAF2F8; /* Black */
+    color: black;
+}
+
+.codebuttonclass{
+   padding: 14px 40px;
+  width: 300px;
+  height: 100px;
+  font-size: 50px;
+  background-color: #EAECEE;
+  color: #808B96;
+  border: none;
+  font-family: 'Poiret One', cursive;
+}
+
+.codebuttonclass:hover{
+  background-color: #EAF2F8; /* Black */
+    color: black;
+}
+
+.collegebuttonclass{
+  padding: 14px 40px;
+  width: 300px;
+  height: 100px;
+  font-size: 50px;
+  background-color: #EAECEE;
+  color: #808B96;
+  border: none;
+  font-family: 'Poiret One', cursive;
+}
+
+.collegebuttonclass:hover{
+  background-color: #EAF2F8; /* Black */
+    color: black;
+}
+
+.happybuttonclass{
+   padding: 14px 40px;
+  width: 300px;
+  height: 100px;
+  font-size: 50px;
+  background-color: #EAECEE;
+  color: #808B96;
+  border: none;
+  font-family: 'Poiret One', cursive;
+}
+
+.happybuttonclass:hover{
+   background-color: #EAF2F8; /* Black */
+    color: black;
+}
+
+.healthybuttonclass{
+  padding: 14px 40px;
+  width: 300px;
+  height: 100px;
+  font-size: 50px;
+  background-color: #EAECEE;
+  color: #808B96;
+  border: none;
+  font-family: 'Poiret One', cursive;
+}
+
+.healthybuttonclass:hover{
+   background-color: #EAF2F8; /* Black */
+    color: black;
+}
+
+.languagesbuttonclass{
+  padding: 14px 40px;
+  width: 300px;
+  height: 100px;
+  font-size: 50px;
+  background-color: #EAECEE;
+  color: #808B96;
+  border: none;
+  font-family: 'Poiret One', cursive;
+}
+
+.languagesbuttonclass:hover{
+   background-color: #EAF2F8; /* Black */
+    color: black;
+}
+
+.photoshopbuttonclass{
+  padding: 14px 40px;
+  width: 300px;
+  height: 100px;
+  font-size: 50px;
+  background-color: #EAECEE;
+  color: #808B96;
+  border: none;
+  font-family: 'Poiret One', cursive;
+}
+  
+.photoshopbuttonclass:hover{
+   background-color: #EAF2F8; /* Black */
+    color: black;
+}
+
+.randombuttonclass{
+  padding: 14px 40px;
+  width: 300px;
+  height: 100px;
+  font-size: 50px;
+  background-color: #EAECEE;
+  color: #808B96;
+  border: none;
+  font-family: 'Poiret One', cursive;
+}
+
+.randombuttonclass:hover{
+   background-color: #EAF2F8; /* Black */
+    color: black;
+}
+
+.relationshipsbuttonclass{
+  padding: 14px 40px;
+  width: 300px;
+  height: 100px;
+  font-size: 50px;
+  background-color: #EAECEE;
+  color: #808B96;
+  border: none;
+  font-family: 'Poiret One', cursive;
+}
+
+.relationshipsbuttonclass:hover{
+   background-color: #EAF2F8; /* Black */
+    color: black;
+}
+
+.singdancebuttonclass{
+  padding: 14px 40px;
+  width: 300px;
+  height: 100px;
+  font-size: 50px;
+  background-color: #EAECEE;
+  color: #808B96;
+  border: none;
+  font-family: 'Poiret One', cursive;
+}
+
+.singdancebuttonclass:hover{
+   background-color: #EAF2F8; /* Black */
+    color: black;
+}
+
+.sportsbuttonclass{
+  padding: 14px 40px;
+  width: 300px;
+  height: 100px;
+  font-size: 50px;
+  background-color: #EAECEE;
+  color: #808B96;
+  border: none;
+  font-family: 'Poiret One', cursive;
+}
+
+.sportsbuttonclass:hover{
+   background-color: #EAF2F8; /* Black */
+    color: black;
+}
+
+.container {
+  text-align: center;
+}
+
+/*quiz page*/
+
+.wholescreenclass {
+  background-color: #EAF2F8;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  text-align: center;
+  
+}
+
+.quizbodyclass {
+  text-align: center;
+  font-family: Arial;
+  background-color: white;
+  background-blend-mode: overlay;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+  margin-top: 25px;
+}
+
+.takequizclass {
+  text-align: center;
+  color: black;
+  font-family: Arial;
+  font-size: 60px;
+  background-color: none;
+  width: 600px;
+  height: 50px;
+  margin-left: 320px;
+  padding-top: 40px;
+ 
+}
+
+.middleclass {
+  margin-top: 100px;
+  font-family: Arial;
+  font-size: 110%;
+}
+
+.interestclass {
+  font-family: Arial;
+}
+
+.nameclass {
+  border: none;
+  background-color: #EAF2F8;
+  opacity: .8;
+  font-family: Arial;
+  margin-top: 5px;
+  height: 17px;
+  
+}
+
+.submitbuttonclass {
+  border: none;
+  margin-top: 70px;
+  font-family: Arial;
+  font-size: 100%;
+  padding-top: 5px;
+  background-color: #EAF2F8;
+  width: 80px;
+  height: 35px;
+  color: black;
+}
+
+.submitbuttonclass:hover {
+  background-color: #eaf2f8;
+  border: none;
+  color: white;
+}
+
+
+.allvideosclass {
+  text-align: center;
+  font-family: Arial;
+  
+}
+
+.videosclass {
+  background-color: black;
+  font-family: Arial;
+  text-align: center;
+  margin-left: 40px;
+  height: 5.5%;
+  width: 96%;
+  color: white;
+  font-size: 120%;}
+
+  
+.container {
+  padding: 14px 40px;
+  font-size: 50px;
+  background-color: #EAECEE;
+  color: #808B96;
+  border: none;
+  font-family: 'Poiret One', cursive;
+}
